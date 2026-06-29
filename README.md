@@ -1,7 +1,4 @@
-
-
-<!--
-**c0der42/# 👋 Hi, I'm Niranjan Kumar
+# 👋 Hi, I'm Niranjan Kumar
 
 **Cybersecurity Enthusiast | Penetration Tester | Bug Bounty Hunter**
 
@@ -158,4 +155,10 @@ Completed comprehensive security vulnerability training
 ✓ OWASP Top 10 Analysis
 ✓ CTF Competition Strategies
 ```
+
+---
+
+
+
+
 
